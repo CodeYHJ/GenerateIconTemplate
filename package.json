@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ts-node": "^8.10.2"
+  },
+  "scripts": {
+    "generate":"./node_modules/.bin/ts-node ./src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.26",
+    "typescript": "^3.9.7"
+  }
+}
